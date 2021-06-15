@@ -2,7 +2,7 @@
 #
 # General architecture dependent options
 #
-
+asdasd
 #
 # Note: arch/$(SRCARCH)/Kconfig needs to be included first so that it can
 # override the default values in this file.
