@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: GPL-2.0-only
+asdas// SPDX-License-Identifier: GPL-2.0-only
 /*
  *  inode.c - securityfs
  *
